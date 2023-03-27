@@ -5,7 +5,7 @@ Giulia de Meijere, Eugenio Valdano, Claudio Castellano, Marion Debin, Charly Ken
 
 If you use this material, please cite the above reference.
 
-All scripts available in this section (folder entitled "Attitudes_testing_isolation_booster_22_23") are modifications of the scripts of Joel Hellewell available at https://github.com/epiforecasts/ringbp.
+All scripts available in this section (folder entitled "Attitudes_testing_isolation_booster_22_23") are modifications of the scripts of Joel Hellewell available at https://www.sciencedirect.com/science/article/pii/S2666776223000327.
 
 Usage:
 
